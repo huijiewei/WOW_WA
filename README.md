@@ -43,3 +43,5 @@ https://www.curseforge.com/wow/addons/classiccastbars
 https://www.curseforge.com/wow/addons/threatclassic2
 
 https://www.curseforge.com/wow/addons/alachat_classic
+
+https://www.curseforge.com/wow/addons/atlaslootclassic
